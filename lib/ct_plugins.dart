@@ -13,6 +13,8 @@ export 'package:firebase_messaging/firebase_messaging.dart';
 export 'package:email_validator/email_validator.dart';
 export 'package:flutter_html/flutter_html.dart' hide OnTap;
 export 'package:cached_network_image/cached_network_image.dart';
+export 'package:line_icons/line_icon.dart';
+export 'package:line_icons/line_icons.dart';
 
 
 class CtPlugins {
